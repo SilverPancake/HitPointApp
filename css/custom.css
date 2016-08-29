@@ -1,0 +1,26 @@
+
+#blueLayer {
+height: 100px;
+background:blue;
+width:100%;
+}
+
+#greenLayer {
+height: 100px;
+background:green;
+width:100%;
+}
+
+#redLayer {
+height: 100px;
+background:red;
+width:100%;
+}
+
+
+footer{
+position:fixed;
+bottom:0;
+width:99%;
+height:20px;
+}
